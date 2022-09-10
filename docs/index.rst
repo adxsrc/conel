@@ -15,6 +15,8 @@ topological spaces.
    :maxdepth: 2
    :caption: Contents:
 
+   background
+
 
 Indices and tables
 ==================
