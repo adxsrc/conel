@@ -16,6 +16,7 @@ topological spaces.
    :caption: Contents:
 
    background
+   design
 
 
 Indices and tables
